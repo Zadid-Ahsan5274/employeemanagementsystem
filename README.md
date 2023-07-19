@@ -26,6 +26,7 @@ This is a standalone application to manage information of employees. Admin can m
 ## Screenshots
 
 Login Page
+
 ![LoginScreen](https://github.com/Zadid-Ahsan5274/employeemanagementsystem/assets/82231014/e1cab352-7e9d-45a6-8241-7929f6cccc85)
 
 Dashboard Page
