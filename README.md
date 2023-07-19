@@ -24,11 +24,15 @@ This is a standalone application to manage information of employees. Admin can m
 - Run the application from Eclipse
 
 ## Screenshots
+
 Login Page
 ![LoginScreen](https://github.com/Zadid-Ahsan5274/employeemanagementsystem/assets/82231014/e1cab352-7e9d-45a6-8241-7929f6cccc85)
+
 Dashboard Page
 ![Dashboard](https://github.com/Zadid-Ahsan5274/employeemanagementsystem/assets/82231014/ca5a3a83-4e0e-4905-b4b9-537aeb4bc108)
+
 Add Employee
 ![AddEmp](https://github.com/Zadid-Ahsan5274/employeemanagementsystem/assets/82231014/da3fece0-4fa3-4a5c-aabc-d28e21f6fb01)
+
 Adjust Employee Salary
 ![AdjustEmpSal](https://github.com/Zadid-Ahsan5274/employeemanagementsystem/assets/82231014/8ddbb826-c335-4538-91dd-1a715260cf43)
